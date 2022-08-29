@@ -36,8 +36,8 @@
 
 <h3 class = "author" align="left">Github statistics</h3>
 
- <a>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mosliem&show_icons=true&locale=en" alt="mosliem" /></a>
-<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosliem&show_icons=true&theme=dark&locale=en&layout=compact" alt="mosliem"/></a>
+ <a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosliem&show_icons=true&locale=en" alt="mosliem" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosliem&show_icons=true&theme=dark&locale=en&layout=compact" alt="mosliem"/></a>
 
 
 
