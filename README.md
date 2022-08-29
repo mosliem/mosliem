@@ -34,11 +34,12 @@
 <a href="mohamedmostafa191299@gmail.com target="blank"><img align="center" src="https://github.com/mosliem/mosliem/blob/main/Gmail-logo.svg" alt="mohamedmostafa191299@gmail.com" height="40" width="50" /></a>
 </p>
 
+
 <h3 class = "author" align="left">Github statistics</h3>
 
- <a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosliem&show_icons=true&locale=en" alt="mosliem" /></a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosliem&show_icons=true&theme=dark&locale=en&layout=compact" alt="mosliem"/></a>
-
-
+<p align="left">
+<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosliem&show_icons=true&theme=dark&locale=en&layout=compact" alt="mosliem"/></a>
+<a>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mosliem&show_icons=true&locale=en" alt="mosliem" /></a>
+</p>
 
 
