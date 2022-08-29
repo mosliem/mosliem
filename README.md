@@ -39,7 +39,10 @@
 
 <p align="left">
 <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosliem&show_icons=true&theme=dark&locale=en&layout=compact" alt="mosliem"/></a>
+</p>
+<p align="left">
 <a>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mosliem&show_icons=true&locale=en" alt="mosliem" /></a>
 </p>
+
 
 
