@@ -21,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
  <img src="https://github.com/mosliem/mosliem/blob/main/uikit-svgrepo-com.svg" alt="uikit" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">  </p>
-<br> 
+
 <h3 class = "author" align="left">Github statistics</h3>
 
 <p align="left">
@@ -32,7 +32,7 @@
 </p>
 
 
-<br> <br> <br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br>
 
 <h3 align="left">Connect with me</h3>
 <p>
