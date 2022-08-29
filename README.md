@@ -26,18 +26,15 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">  </p>
 
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosliem&show_icons=true&locale=en" alt="mosliem" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosliem&show_icons=true&theme=dark&locale=en&layout=compact" alt="mosliem" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosliem&show_icons=true&theme=dark&locale=en&layout=compact" alt="mosliem"/></p>
 
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-sliem-662491172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-sliem-662491172/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mosliem99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mosliem99" height="30" width="40" /></a>
-<a href="mohamedmostafa191299@gmail.com target="blank"><img align="center" src="https://github.com/mosliem/mosliem/blob/main/Gmail-logo.svg" alt="mohamedmostafa191299@gmail.com" height="40" width="50" /></a>
+<h3 align="right">Connect with me</h3>
+<p align="right">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-sliem-662491172/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-sliem-662491172/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mosliem99" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mosliem99" height="30" width="40" /></a>
+<a href="mohamedmostafa191299@gmail.com target="blank"><img align="right" src="https://github.com/mosliem/mosliem/blob/main/Gmail-logo.svg" alt="mohamedmostafa191299@gmail.com" height="40" width="50" /></a>
 </p>
