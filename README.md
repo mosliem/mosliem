@@ -30,11 +30,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosliem&show_icons=true&theme=dark&locale=en&layout=compact" alt="mosliem" /></p>
-
-
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosliem&show_icons=true&locale=en" alt="mosliem" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosliem&show_icons=true&theme=dark&locale=en&layout=compact" alt="mosliem" /></p>
