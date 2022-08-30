@@ -26,13 +26,13 @@
 
 <p align="left">
 <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosliem&show_icons=true&theme=dark&locale=en&layout=compact" alt="mosliem"/></a>
-<br> <br> <br> <br> <br> <br> <br> </p> 
+ </p> 
 <p align="left">
-<a>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mosliem&show_icons=true&locale=en" alt="mosliem" /></a>
+<a>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mosliem&show_icons=true&locale=en" alt="mosliem" width= "400" height="150"/></a>
 </p>
 
 
-<br> <br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> 
 
 <h3 align="left">Connect with me</h3>
 <p>
