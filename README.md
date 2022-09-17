@@ -38,7 +38,7 @@
 <p>
 <a href="https://www.linkedin.com/in/mohamed-sliem-662491172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-sliem-662491172/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mosliem99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.leetcode.com/mosliem99" height="30" width="40" /></a>
-<a href="mohamedmostafa191299@gmail.com target="blank"><img align="center" src="https://github.com/mosliem/mosliem/blob/main/Gmail-logo.svg" alt="mohamedmostafa191299@gmail.com" height="40" width="50" /></a>
+<a href="mailto:mohamedmostafa191299@gmail.com target="blank"><img align="center" src="https://github.com/mosliem/mosliem/blob/main/Gmail-logo.svg" alt="mohamedmostafa191299@gmail.com" height="40" width="50" /></a>
 </p>
 
 
