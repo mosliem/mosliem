@@ -25,16 +25,15 @@
 <h3 class = "author" align="left">Github statistics</h3>
 
 <p align="left">
-<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosliem&show_icons=true&theme=dark&locale=en&layout=compact" alt="mosliem"/></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosliem&show_icons=true&theme=dark&locale=en&layout=compact" alt="mosliem"/></a>
  </p> 
-<p align="left">
+<!-- <p align="left">
 <a>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mosliem&show_icons=true&locale=en" alt="mosliem" width= "400" height="140"/></a>
-</p>
+</p> -->
 
 
-<br> <br> <br> <br> <br> 
+<h3>Connect with me</h3>
 
-<h3 align="left">Connect with me</h3>
 <p>
 <a href="https://www.linkedin.com/in/mohamed-sliem-662491172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-sliem-662491172/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mosliem99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.leetcode.com/mosliem99" height="30" width="40" /></a>
