@@ -3,7 +3,7 @@
 <h3 align="center">iOS developer</h3>
 
 - 🔭 I'm currently an iOS developer intern at Artificial Intelligence Technology Center - MUST University
-- 📄 Know about my experiences [Here is my cv](https://docs.google.com/document/d/1T8fUMEXsDy0ZubEYr-OqS0eS_aizrxpP/edit?usp=sharing&ouid=105954910480196310314&rtpof=true&sd=true)
+- 📄 Know about my experiences [Here is my cv](https://drive.google.com/file/d/1_NcajUJFGiEHE45XbpagufLs8OyTyW9b/view?usp=sharing)
 
 
 
