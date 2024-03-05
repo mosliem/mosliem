@@ -11,7 +11,7 @@
  
  
  - 💻 Swift, UIKit 
- - 🛠 MVC, MVP, VIPER
+ - 🛠 MVC, MVP, VIPER, MVVM
  - 👷🏻‍♂️ Software engineering concepts 
  - 📚 Data structure and algorithms 
  - 👨🏻‍💻 Problem solving 
