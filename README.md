@@ -3,7 +3,6 @@
 <h3 align="center">iOS developer</h3>
 
 - 🔭 I'm currently an iOS developer intern at Solution Plus
-- 📄 Know about my experiences [Here is my cv](https://drive.google.com/file/d/1_NcajUJFGiEHE45XbpagufLs8OyTyW9b/view?usp=sharing)
 
 
 
