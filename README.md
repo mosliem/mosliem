@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sliem</h1>
 <h3 align="center">iOS developer</h3>
 
-- 🔭 I'm currently an iOS developer intern at Solution Plus
+- 🔭 I'm currently an iOS developer at OTAS
 
 
 
